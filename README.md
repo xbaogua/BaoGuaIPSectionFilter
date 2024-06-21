@@ -1,2 +1,9 @@
 # BaoGuaIPSectionFilter
-IP网段过滤工具
+
+IP网段过滤工具  
+File: BaoGuaIPSectionFilter.exe  
+Size: 1025895 bytes  
+File Version: 1.0.0.0  
+MD5: F74D3748532E4E0824C68DA739361EAE  
+SHA1: DB40623634F439261283D1ADF869BCB7F40CD878  
+CRC32: BF479F22  
